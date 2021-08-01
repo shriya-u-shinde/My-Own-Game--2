@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"name": "Project",
+			"path": "/"
+		}
+	],
+    "settings": {
+        "vsliveshare.join.reload.workspaceId": "EE2E2E2C3732BEEA55B5AC3BF14A988058BB",
+        "vsliveshare.join.reload.workspaceFolder": "C:\\Users\\pia\\AppData\\Local\\Temp\\vsliveshare-tmp-EE2E2E2C3732BEEA55B5AC3BF14A988058BB",
+        "files.hotExit": "off",
+        "extensions.ignoreRecommendations": true,
+        "files.autoSave": "off",
+        "typescript.tsc.autoDetect": "off",
+        "debug.allowBreakpointsEverywhere": true,
+        "html.autoClosingTags": false
+    },
+    "transient": null
+}
